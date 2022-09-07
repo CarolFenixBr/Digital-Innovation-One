@@ -18,7 +18,7 @@ Este é o primeiro bootcamp sobre Banco de Dados da DIO para profissionais que p
 
 ✅Overview sobre Modelagem de Dados
 
-▫️Arquitetura de Banco de Dados
+✅Arquitetura de Banco de Dados
 
 ▫️Fundamentos de Modelagem e Projeto de Banco de Dados
 
