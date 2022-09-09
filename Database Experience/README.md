@@ -24,7 +24,7 @@ Este é o primeiro bootcamp sobre Banco de Dados da DIO para profissionais que p
 
 ✅Explorando o Modelo ER – Entidade Relacionamento
 
-▫️Modelagem de Dados com EER – Enhanced Entity Relationship
+✅Modelagem de Dados com EER – Enhanced Entity Relationship
 
 ▫️Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
 
