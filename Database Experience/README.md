@@ -20,9 +20,9 @@ Este é o primeiro bootcamp sobre Banco de Dados da DIO para profissionais que p
 
 ✅Arquitetura de Banco de Dados
 
-▫️Fundamentos de Modelagem e Projeto de Banco de Dados
+✅Fundamentos de Modelagem e Projeto de Banco de Dados
 
-▫️Explorando o Modelo ER – Entidade Relacionamento
+✅Explorando o Modelo ER – Entidade Relacionamento
 
 ▫️Modelagem de Dados com EER – Enhanced Entity Relationship
 
