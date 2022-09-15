@@ -1,4 +1,4 @@
-#Estruturas condicionais
+#Estruturas condicionais if/ if-else/ elif
 MAIOR_IDADE = 18
 IDADE_ESPECIAL = 12
 
