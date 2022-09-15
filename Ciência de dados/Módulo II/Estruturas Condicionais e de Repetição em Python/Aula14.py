@@ -1,4 +1,4 @@
-#Estruturas condicionais if alinhado
+#Estruturas condicionais: if alinhado
 conta_normal = False
 conta_universitaria = True
 conta_especial = True
