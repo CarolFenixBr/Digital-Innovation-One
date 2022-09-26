@@ -1,14 +1,15 @@
-#Estrutura de repetição : BREAK
-#while True:
-#    numero = int(input("Informe um número: "))
+"""Estrutura de repetição : BREAK
+while True:
+    numero = int(input("Informe um número: "))
 
-#   if numero == 22:
-#       break
+   if numero == 22:
+       break
 
-#    if numero % 2 ==0:
-#        continue 
+    if numero % 2 ==0:
+        continue 
 
-#   print(numero)
+   print(numero)
+"""
 
 for numero in range (100):
 
