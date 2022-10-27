@@ -1,7 +1,7 @@
 <div align="center"> 
  <img height="300em" src="https://user-images.githubusercontent.com/89542446/198362706-aba70214-aaef-4879-b5b3-399179c92922.png">
  
-🔸43 cursos🔸6 desafios de projeto🔸10 desafios de código🔸1 live
+🔸43 cursos🔸6 desafios de projeto🔸10 desafios de código🔸1 live 🕐151 hrs
 
 
 🔹Prepare-se Para a Jornada (Onboarding)
