@@ -5,7 +5,7 @@ O bootcamp Unimed-BH Ciência de Dados é para profissionais que já atuam com c
 
 ✅Módulo I :  Onboarding
 
-◽Módulo II : Python para cientista de dados
+✅Módulo II : Python para cientista de dados
 
 ◽Módulo III : Bancos de dados SQL e NoSQL
 
