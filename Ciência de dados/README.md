@@ -9,7 +9,7 @@
 
 ✅Módulo II : Python para cientista de dados
 
-◽Módulo III : Bancos de dados SQL e NoSQL
+✅Módulo III : Bancos de dados SQL e NoSQL
 
 ◽Módulo IV : Imersão Cloud Computer
 
