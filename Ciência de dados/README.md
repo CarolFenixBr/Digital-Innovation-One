@@ -13,7 +13,7 @@
 
 ◽Módulo IV : Imersão Cloud Computer
 
-◽Módulo V : Machine Learning
+✅Módulo V : Machine Learning
 </div>
 
  ![image](https://user-images.githubusercontent.com/89542446/198681714-ddad802d-a28e-4a5a-a4e3-1af8d7134396.png)
