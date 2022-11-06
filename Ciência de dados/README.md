@@ -11,7 +11,7 @@
 
 ✅Módulo III : Bancos de dados SQL e NoSQL
 
-◽Módulo IV : Imersão Cloud Computer
+✅Módulo IV : Imersão Cloud Computer
 
 ✅Módulo V : Machine Learning
 </div>
